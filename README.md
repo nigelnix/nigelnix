@@ -18,3 +18,13 @@
 
 And whatever else becomes necessary to further develop the skills I will need to further my career. 
 
+### I have learned a lot using the following resources:
+- [Codecademy](https://www.codecademy.com/)
+- [Scrimba](https://scrimba.com/)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Kevin Powell - YouTube](https://www.youtube.com/kepowob)
+- [Code with Ania Kubów - 12 Hour Javascript Bootcamp](https://www.youtube.com/watch?v=Xm4BObh4MhI&t=21793s)
+- [React for Beginners](https://www.youtube.com/watch?v=bMknfKXIFA8&t=60s) 
+- [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts)
+- [Coder Coder - YouTube](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ)
+
