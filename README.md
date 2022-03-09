@@ -1,6 +1,7 @@
 # Nigel Nix
 ## Profile
 
+
 ![nigel](https://user-images.githubusercontent.com/82499343/157449382-7ee16c06-d249-4771-a9fa-46b520024312.jpg)
 
 
@@ -16,3 +17,4 @@
 5. Node.js
 
 And whatever else becomes necessary to further develop the skills I will need to further my career. 
+
