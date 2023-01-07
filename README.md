@@ -7,16 +7,19 @@
 
 ## A little info about me...
 
-> For the last 18 years I have been teaching business English in companies as a freelance teacher. Due to the Covid-19 paddemic, I unfortunately lost most of my clients and am now looking for a new career path. I have been learning web design in my free time but now I want to take it tio the next level so I have started a Web Development course to expand my knowledge. The terminal command and Javascript are new territory for me. 
+I had been teaching business English in companies as a freelance teacher. Due to the Covid-19 paddemic, I unfortunately lost most of my clients and am now looking for a new career path. I have been learning web design in my free time but now I want to take it tio the next level so I am taking a full-time Web Development course with Digital Career Institute GmbH in Berlin to expand my knowledge. 
 
-### I would like to learn more about:
-1. Javascript
-2. React
-3. Databases
-4. Terminal commands
-5. Node.js
+### Things I have learned so far:
+1. HTML
+2. CSS
+3. Javascript
+4. Node.js
+5. Express
+6. MongoDB
+7. React
+8. Bootstrap
 
-And whatever else becomes necessary to further develop the skills I will need to further my career. 
+And whatever else becomes necessary to further develop the skills I will need to further my career. At the moment, when I have some time to spare at the weekends I am trying to become familiar with TypeScript and Tailwind CSS.  
 
 ### I have learned a lot using the following resources:
 - [Codecademy](https://www.codecademy.com/)
