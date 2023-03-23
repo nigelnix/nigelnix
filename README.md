@@ -1,10 +1,10 @@
 
-![MasterHead](https://iili.io/HwIXmL7.md.jpg)
+![MasterHead](https://i.im.ge/2023/03/23/DeyU4J.banner-g424103101-1280.jpg)
     
 <h1 align="center">Hi 👋, I'm Nigel Nix</h1>
 <h3 align="center">A passionate full-stack developer from Germany</h3>
 
-(img align="right" alt="Coding" width="400" src="https://s10.gifyu.com/images/coding.gif")
+<img align="right" alt="Coding" width="400" src="https://s10.gifyu.com/images/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigelnix&label=Profile%20views&color=0e75b6&style=flat" alt="nigelnix" /> </p>
