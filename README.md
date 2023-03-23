@@ -7,7 +7,7 @@
 
 ## A little info about me...
 
-I had been teaching business English in companies as a freelance teacher. Due to the Covid-19 paddemic, I unfortunately lost most of my clients and am now looking for a new career path. I have been learning web design in my free time but now I want to take it tio the next level so I am taking a full-time Web Development course with Digital Career Institute GmbH in Berlin to expand my knowledge. 
+I had been teaching business English in companies as a freelance teacher. Due to the Covid-19 paddemic, I unfortunately lost most of my clients and am now looking for a new career path. I have been learning web design in my free time but now I want to take it to the next level so I have just finished a full-time Web Development course with Digital Career Institute GmbH in Berlin to expand my knowledge. 
 
 ### Things I have learned so far:
 1. HTML
