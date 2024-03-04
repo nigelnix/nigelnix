@@ -1,5 +1,5 @@
 
-![MasterHead](https://ibb.co/yQhNZMQ)
+![MasterHead](https://i.ibb.co/rwbQzLw/github-banner.jpg)
     
 <h1 align="center">Hi 👋, I'm Nigel Nix</h1>
 <h3 align="center">A passionate full-stack developer from Germany</h3>
