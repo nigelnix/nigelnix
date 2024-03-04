@@ -1,5 +1,5 @@
 
-![MasterHead](https://i.im.ge/2023/03/23/DeyU4J.banner-g424103101-1280.jpg)
+![MasterHead](https://ibb.co/yQhNZMQ)
     
 <h1 align="center">Hi 👋, I'm Nigel Nix</h1>
 <h3 align="center">A passionate full-stack developer from Germany</h3>
